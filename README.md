@@ -10,6 +10,7 @@ Looking to contribute to the Story ecosystem but need inspiration? This reposito
 1. **Figma Plugin for IP Registration**  
    Develop a plugin for design tools like Figma and Photoshop, enabling seamless IP registration directly within the platform. Empower creators to secure their ideas effortlessly.  
 
+<<<<<<< HEAD
 2. **Telegram IP Bot**  
    Build a Telegram bot that channels can use for instant IP registration. Simplify the process for creators and communities to protect their intellectual property.  
 
@@ -68,6 +69,9 @@ Got an idea for Story Protocol? Add it to the list and inspire the community! Su
 - [Explorer](https://explorer.storyprotocol.xyz/)  
 - [IP Registration Demo](https://play.storyprotocol.xyz/)  
 - [Join the Community on Discord](https://discord.gg/storyprotocol)  
+=======
+4. **[Licensing Marketplace](https://x.com/muttonia/status/1801630991951532307)**: Build an optimized licensing marketplace for sourcing stock photos, stock videos, music for commercial use, audio sample packs, and field recordings. This platform would provide a comprehensive resource for creators looking to find high-quality, licensable content, making it easier for them to source the materials they need while ensuring that all content is properly licensed and credited. [Read the tweet!](https://x.com/muttonia/status/1801630991951532307)
+>>>>>>> 5e3d9242d2b16f15ff20fdb4c0d73d5c7a97be46
 
 
 
